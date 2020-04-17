@@ -1,0 +1,13 @@
+html {
+    font-family: 'Pirata One', 'Trebuchet MS', sans-serif;
+    font-size: large;
+}
+
+#contact input[type="text"] {
+    padding: 2% 1% 2% 7%;
+    width: 50%;
+    margin: 15px;
+    border: 3px solid black;
+    border-radius: 13px;
+}
+
